@@ -19,7 +19,7 @@ dependencies:
   wakelock_platform_interface: ^0.3.0
   wakelock_web: ^0.4.0
   wakelock_windows:
-    path: ..\wakelock_windows
+    path: ../wakelock_windows
 
 dev_dependencies:
   flutter_test:
